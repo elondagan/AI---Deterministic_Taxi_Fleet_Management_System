@@ -3,7 +3,7 @@ Implement a taxi fleet management system using forward search and heuristics
 
 **Objection:**
 
-take the role of the owner of a taxi business and manage the deliver of passengers to their destinations in the shortest time possible
+Take the role of the owner of a taxi business and manage the deliver of passengers to their destinations in the shortest time possible
 
 **Environment:**
 
